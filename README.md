@@ -1,6 +1,8 @@
-# Large-Scale Learnable Graph Convolutional Networks (KDD18)
+# Large-Scale Learnable Graph Convolutional Networks(LGCN)
 
 Created by [Hongyang Gao](http://eecs.wsu.edu/~hgao/), [Zhengyang Wang](http://www.eecs.wsu.edu/~zwang6/) and [Shuiwang Ji](http://www.eecs.wsu.edu/~sji/) at Washington State University.
+
+Accepted by KDD18.
 
 ## Introduction
 
