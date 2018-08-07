@@ -29,3 +29,4 @@ After configure the network, we can start to train. Run
 ```
 python main.py
 ```
+The training results on Cora dataset will be displayed.
