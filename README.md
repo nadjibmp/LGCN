@@ -30,3 +30,15 @@ After configure the network, we can start to train. Run
 python main.py
 ```
 The training results on Cora dataset will be displayed.
+
+
+## Results
+
+| Models    | Cora  | Citeseer | Pubmed |
+|-----------|-------|----------|--------|
+| DeepWalk  | 67.2% | 43.2%    | 65.3%  |
+| Planetoid | 75.7% | 64.7%    | 77.2%  |
+| Chebyshev | 81.2% | 69.8%    | 74.4%  |
+| GCN       | 81.5% | 70.3%    | 79.0%  |
+| LGCN      |83.3 ± 0.5% | 73.0 ± 0.6% | 79.5 ± 0.2% |
+
