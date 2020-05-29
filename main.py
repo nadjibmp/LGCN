@@ -1,6 +1,6 @@
 import os
 import argparse
-import tensorflow as tf
+import tensorflow.compat.v1  as tf
 from network import GraphNet
 
 
